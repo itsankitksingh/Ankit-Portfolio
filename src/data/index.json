@@ -1,0 +1,83 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Languages",
+      "description": " C/C++, JavaScript, Python, Typescript"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": " Libraries/Frameworks",
+      "description": " React, Nodejs, Expressjs, Mongoose, CSS, Bootstrap"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Developer Tools",
+      "description": " GIT, Github, MongoDB Atlas, MongoDB Compass, VS Code"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": " Strong Topics",
+      "description": " Data Structure and Algorithm"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Cloudbook",
+      "description1": "Enabled CRUD operations, allowing users to create, read, update, and delete notes.",
+      "description2": "Ensured data privacy and security by restricting note access to their respective creators.",
+      "description3": "Successfully built a secure authentication system using JWT tokens.",
+      "description4": "Designed an intuitive signup process to facilitate new account creation.",
+      "description5": "Connected with a MongoDB database and designed schemas and models for data storage.",
+      "link": "https://idyllic-lolly-eee31c.netlify.app/"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "NewsDaily",
+      "description1": " Designed a fully functional news website using ReactJS with external API data integration.",
+      "description2": " Implemented user-friendly features like news categorization, country selection, and pagination.",
+      "description3": " Showcased technical skills in ReactJS development and API utilization for enhanced web functionality.",
+      "link": "https://github.com/itsankitksingh/NewsDaily"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Textools",
+      "description1": "Designed a feature-rich React application for text modification.",
+      "description2": "Included functions like text case conversion, text-to-speech, word count, and estimated reading time.",
+      "description3": "Implemented a dark mode option to improve the overall user experience.",
+      "description4": " Created a user-friendly interface for seamless text editing and analysis.",
+      "link": "https://itsankitksingh.github.io/Textool/"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description1": "Developed and curated coding questions for evaluating Data Structure and Algorithms competencies. These questions were utilized in assessments conducted by iMocha.",
+      "description2": " Played a crucial role in the review and refinement of coding questions designed to assess Data Structure and Algorithms proficiency for iMocha assessments.",
+
+      "author_name": "Imocha",
+      "author_designation": " DSA Problem Setter- Intern",
+      "timeline":"Aug. 2022 - Apr. 2023"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description1": "I have solved questions related to Computer Science Subjects.Main subjects were DSA, OS, CN, CD, DBMS.",
+      "description2": "The solution contains step-by-step explanations along with diagrams or even the working code in C/C++.",
+      "author_name": "Chegg",
+      "author_designation": " SME (Computer Science)",
+      "timeline": "Mar. 2023 - Jun. 2023"
+    }
+  ]
+}
